@@ -1,0 +1,14 @@
+{
+    "Confirmed": 101447,
+    "Recovered": 65803,
+    "Hospitalized": 35055,
+    "Deaths": 589,
+    "NewConfirmed": 2302,
+    "NewRecovered": 2136,
+    "NewHospitalized": 142,
+    "NewDeaths": 24,
+    "UpdateDate": "16/05/2021 11:50",
+    "Source": "https://covid19.th-stat.com/",
+    "DevBy": "https://www.kidkarnmai.com/",
+    "SeverBy": "https://smilehost.asia/"
+  }
